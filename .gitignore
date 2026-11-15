@@ -1,0 +1,21 @@
+# Build output
+/bin/
+/dist/
+/unkindled-mcp
+
+# Test and coverage output
+*.test
+*.out
+coverage.txt
+coverage.html
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp
