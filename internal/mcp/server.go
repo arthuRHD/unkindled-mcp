@@ -20,7 +20,7 @@ import (
 
 // Version is the server version reported during initialize. It can be
 // overridden at build time with -ldflags.
-var Version = "0.1.0"
+var Version = "1.2.0"
 
 // protocolVersion is the MCP revision implemented by this server.
 const protocolVersion = "2024-11-05"

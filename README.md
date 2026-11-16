@@ -32,10 +32,10 @@ runtime dependencies, and it talks to the existing Unkindled JSON API with beare
 ### `go install`
 
 ```sh
-go install github.com/arthuRHD/unkindled-mcp/cmd/unkindled-mcp@v0.1.0
+go install github.com/arthuRHD/unkindled-mcp/cmd/unkindled-mcp@v1.2.0
 ```
 
-Make sure `$(go env GOPATH)/bin` is on your `PATH`. To pin a version, use `@v0.1.0` (once tagged) or
+Make sure `$(go env GOPATH)/bin` is on your `PATH`. To pin a version, use `@v1.2.0` (once tagged) or
 build from a checkout.
 
 ### Build from source
